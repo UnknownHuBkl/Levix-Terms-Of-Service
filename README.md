@@ -23,20 +23,6 @@ Levix enables users to send messages into Discord channels, and as such, the own
 - Attempt to bypass, disable, or exploit security measures implemented within the bot.
 - Utilize unauthorized automation tools to manipulate Levix’s functionality.
 
-## Violations & Consequences
-
-Non-compliance with these terms may result in:
-
-- Temporary or permanent suspension from using Levix.
-- Blacklisting from future services.
-- Reporting to Discord for severe violations.
-
-## Service Availability & Liability
-
-- Levix is provided "as is" without guarantees regarding uptime or uninterrupted service.
-- The bot owner holds no responsibility for any damages, data loss, or service disruptions caused by Levix.
-- Users acknowledge and accept any potential risks associated with using Levix.
-
 ## Contact & Support
 
 For support, assistance, or further inquiries, please visit our [support server](https://discord.gg/invite/hindustani).
